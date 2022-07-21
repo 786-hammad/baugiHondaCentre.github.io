@@ -1,0 +1,118 @@
+
+.myrows{
+  border:3px solid green;
+}
+.mycols{
+  border:3px solid red;
+}
+.mycontainer{
+  background-color: rgb(111, 151, 151);
+}
+#topheader{
+  background-color: ghostwhite;
+  border-bottom: 1px solid silver;
+                        /* padding: 10px;  Inatead of padding we set screen si9zes */
+}
+#topheader a{
+  color:rgb(147, 173, 114);
+  font-weight: 600;
+  font-size:0.69rem;
+                                         /* 1 rem = 16px */
+}
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+nav ul li a{
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+/* Footer Start */
+.full-footer{
+  background-color:#b95026 ;
+  width: 100%;
+  
+}
+.top-footer
+{
+  color:white;
+}
+.top-footer a{
+  color:white;
+  font-weight: 600;
+}
+.top-footer h3{
+  color:white;
+}
+.bottom-footer{
+  background-color: #da965e;
+}
+.bottom-footer p{
+  color: white;
+
+}
+/* End Footer */
+           /* Home page first hero section:: */
+.Top-hero-section{
+  background-color: #5014c0;
+  color: white;
+
+
+}
+.Top-hero-section a{
+  color: white;
+  font-weight: 600;
+}
+/* End firts hero section*/
+                       /* 6 images section */
+.qualities-img{
+  width: 200px;
+
+}
+/* 3 requirements section */
+.requirement-section{
+  background-color: #004d80;
+  color: white;
+}
+/* end 3 requirements section */
+/* start 4 section */
+.home-newsletter{
+  background-color: #004d80;
+  color: white;
+
+}
+              /* BORDER Radius: lefttop,right top,right bottom,left bottom */
+.home-newsletter.form-control{
+  height: 50px;
+  border-color: transparent;
+  border-radius: 20px,0,o,20px;
+}
+.home-newsletter .btn{
+  min-height: 39px ;
+  border-radius: 0,20px,20px,0;
+  background: #d4344f;
+  color:white;
+}
+               /* End 4 section */
+.clients-section{
+  background-color: #f0f0f0;
+}
+.clients-section h3{
+  color: #d4344f;
+}
+/* // about us section */
+.breadcrumbs-section{
+  background-color: #e9ecef;
+
+}
+body
+{
+  width: 100%;
+}
+.shopPic
+{
+  width: 40%;
+  height: 40%;
+
+}
